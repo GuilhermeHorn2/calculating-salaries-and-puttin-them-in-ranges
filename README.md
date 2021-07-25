@@ -1,0 +1,1 @@
+# calculating-salaries-and-puttin-them-in-ranges
